@@ -525,10 +525,10 @@ GameObject:
   - component: {fileID: 616816656}
   - component: {fileID: 616816655}
   - component: {fileID: 616816654}
-  - component: {fileID: 616816658}
   - component: {fileID: 616816657}
+  - component: {fileID: 616816658}
   - component: {fileID: 616816659}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: birb
   m_TagString: Player
   m_Icon: {fileID: 0}

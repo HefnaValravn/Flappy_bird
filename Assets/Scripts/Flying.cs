@@ -18,7 +18,7 @@ public class Flying : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _rb.linearVelocityX = 0;
+        //_rb.linearVelocityX = 0;
         wasPressing = isPressing;
         if (Input.GetKey(KeyCode.Space) && !isPressing)
         {
